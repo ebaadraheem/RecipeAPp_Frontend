@@ -42,13 +42,20 @@
         "backgroundColor": "#ffffff"
       },
       "permissions": [
-        "CAMERA",
-        "READ_EXTERNAL_STORAGE",
-        "WRITE_EXTERNAL_STORAGE"
+        "android.permission.CAMERA",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.RECORD_AUDIO"
       ]
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "owner": "ebaad_raheem",
+    "extra": {
+      "eas": {
+        "projectId": "b9eb7c9c-703c-47af-ab47-b34b0e7f43b4"
+      }
     }
   }
 }

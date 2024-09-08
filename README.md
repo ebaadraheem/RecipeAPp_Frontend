@@ -20,3 +20,4 @@ Explained SERVER_URL: The URL of your backend server where the React Native app 
 FIREBASE_API_KEY: Your Firebase API key for authenticating with Firebase services. Running the Application 
 To start the development server and run the application on your device or emulator: bash Copy code npm start # or yarn start This will open the Expo Developer Tools in your browser.
 Follow the instructions to open the app on an Android/iOS device or emulator.
+Note: Its backend server repository is named as RecipeApp_Backend in the repository section.
